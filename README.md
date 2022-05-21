@@ -42,7 +42,9 @@ Discord, Telegram, ICQ, Skype, Pidgin, Outlook, Tox, Element, Signal
  
  🎹 Keylogger:
 The keylogger will turn on if the user is texting in the chat or using the bank's website.
+
 📋 Clipper:
 Clipper turns on and replaces crypto wallet addresses in the clipboard when a user makes a transaction.
+
 📷 Webcam screenshots:
 Webcam screenshots will be taken if the user is watching something obscene on the Internet.
