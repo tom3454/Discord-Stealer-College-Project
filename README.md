@@ -18,7 +18,7 @@ Binance, coin98, Phantom, Mobox, XinPay, Math10, Metamask, BitApp, Guildwallet, 
 
  Messenger Sessions, Accounts, Tokens
 Discord, Telegram, ICQ, Skype, Pidgin, Outlook, Tox, Element, Signal
-
+ 
  Directories structure
  Filezilla hosts
  Process list
