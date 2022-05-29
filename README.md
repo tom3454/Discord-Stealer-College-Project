@@ -11,7 +11,7 @@ Firefox based browsers
 (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)
  
  Saved wifi networks & scan networks around device (SSID, BSSID)
- 
+ s
  File grabber (Documents, Images, Source codes, Databases, USB)
 
 Detect banking & cryptocurrency services in browsers
