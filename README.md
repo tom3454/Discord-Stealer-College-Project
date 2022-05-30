@@ -23,7 +23,7 @@ Steam, Uplay, Battle.Net, Minecraft session
 Desktop & Webcam screenshot
 
 ProtonVPN, OpenVPN, NordVPN
- 
+ s
  Crypto Wallets
 
 Zcash, Armory, Bytecoin, Jaxx, Exodus, Ethereum, Electrum, AtomicWallet, Guarda, Coinomi, Litecoin, Dash, Bitcoin
